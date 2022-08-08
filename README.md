@@ -4,9 +4,9 @@
 
 ## 📋 Requisitos do Projeto: 
 
-✔️ 1 - Crie um componente <Header /> .
+✔️ 1 - Crie um componente <Header /> 
 
-✔️ 2 - Renderize um texto no <Header /> .
+✔️ 2 - Renderize um texto no <Header /> 
 
 ✔️ 3 - Crie um componente <MovieList />.
 
@@ -37,6 +37,14 @@
 ✔️ 16 - Renderize <MovieList /> dentro do componente <App />.
 
 ✔️ 17 - Adicione PropTypes a todos os componentes.
+
+## 🛠 Tecnologias
+
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="20" height="16" /> ReactJS
+
+ <img align="center" alt="Celi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
+
+ <img align="center" alt="Celi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
 
 
 
