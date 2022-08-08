@@ -40,7 +40,7 @@
 
 ## 🛠 Tecnologias
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="20" height="16" /> ReactJS
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="40" height="30" /> ReactJS
 
  <img align="center" alt="Celi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
 
