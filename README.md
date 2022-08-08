@@ -4,9 +4,9 @@
 
 ## 📋 Requisitos do Projeto: 
 
-✔️ 1 - Crie um componente <Header />.
+✔️ 1 - Crie um componente <Header /> .
 
-✔️ 2 - Renderize um texto no <Header />.
+✔️ 2 - Renderize um texto no <Header /> .
 
 ✔️ 3 - Crie um componente <MovieList />.
 
